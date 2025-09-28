@@ -1,4 +1,5 @@
 # XO Game Delight
+![image](<SmartX O.png>)
 
 A simple and elegant Tic-Tac-Toe game with dark theme and AI opponent.
 
