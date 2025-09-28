@@ -27,7 +27,6 @@ python xo_game_tkinter.py
 
 ### Method 2: One-Click Script
 - **Windows**: Double-click `run_game.bat`
-- **Linux/Mac**: Run `./run_game.sh`
 
 ## Requirements
 
